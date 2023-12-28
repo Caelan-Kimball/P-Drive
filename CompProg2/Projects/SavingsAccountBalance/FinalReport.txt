@@ -1,0 +1,4 @@
+The final amount in the account is $10256.9
+The total deposited into the account was $3790
+The total withdrawn from the account was $3590.25
+The total interest earned on the account was $57.1058
