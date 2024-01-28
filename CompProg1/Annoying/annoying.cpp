@@ -1,4 +1,4 @@
-/*
+m/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -6,7 +6,7 @@
 
 /* 
  * File:   annoying.cpp
- * Author: 020022
+ * Author: Caelan Kimball
  *
  * Created on October 24, 2017, 11:31 AM
  */
